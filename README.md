@@ -130,12 +130,14 @@ The final models were serialized with `joblib` and deployed to the **Hugging Fac
   
 ---
 
-## 📁 Repository Structure
+## **📁 Repository Structure**
  
 ```
 water-quality-potability/
 ├── water-quality.ipynb          # Full notebook: EDA, preprocessing, modeling, tuning
 ├── water_quality_artifact.joblib # Serialized models + scaling parameters
+├── app.py                        # Gradio demo app (same one powering the HF Space)
+├── requirements.txt
 ├── README.md
 ├── README.tr.md
 └── LICENSE
@@ -150,7 +152,7 @@ water-quality-potability/
 ```bash
 git clone https://github.com/KubraParmak/water-quality-potability.git
 cd water-quality-potability
-pip install numpy pandas seaborn matplotlib plotly missingno scikit-learn joblib
+pip install -r requirements.txt
 ```
 
 ### Run the notebook
@@ -175,6 +177,14 @@ print("Potable" if model.predict(scaled)[0] == 1 else "Not potable")
 ```
  
 Or just try the [**live demo**](https://huggingface.co/spaces/KubraParmak/water-potability-demo) — no installation required.
+
+
+### Run the demo locally
+
+```bash
+python app.py
+```
+This launches the same Gradio interface used in the Hugging Face Space, served locally at `http://127.0.0.1:7860`.
 
 ---
 
