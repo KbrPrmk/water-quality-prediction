@@ -2,6 +2,14 @@
  
 Suyun fiziksel/kimyasal özelliklerine bakarak içilebilir olup olmadığını tahmin eden, klasik makine öğrenmesi (Decision Tree & Random Forest) tabanlı bir proje.
 
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange.svg)](https://scikit-learn.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![HF Space](https://img.shields.io/badge/🤗%20Demo-Hugging%20Face%20Space-yellow)](https://huggingface.co/spaces/KubraParmak/water-potability-demo)
+[![HF Model](https://img.shields.io/badge/🤗%20Model-Hugging%20Face%20Hub-yellow)](https://huggingface.co/KubraParmak/water-potability-model)
+
+🇹🇷 Türkçe | 🇬🇧 [English](README.md)
+
 ---
 
 ## **📌 Genel Bakış**
