@@ -7,6 +7,7 @@ This project aims to predict whether a water sample is potable based on its phys
 [![HF Space](https://img.shields.io/badge/🤗%20Demo-Hugging%20Face%20Space-yellow)](https://huggingface.co/spaces/KubraParmak/water-potability-demo)
 [![HF Model](https://img.shields.io/badge/🤗%20Model-Hugging%20Face%20Hub-yellow)](https://huggingface.co/KubraParmak/water-potability-model)
 
+🇹🇷 [Türkçe](README.tr.md) | 🇬🇧 English
 ---
 
 ## **📌 Overview**
