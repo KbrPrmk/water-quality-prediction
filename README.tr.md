@@ -1,12 +1,12 @@
-# **💧Su İçilebilirlik Tahmini**
- 
-Suyun fiziksel/kimyasal özelliklerine bakarak içilebilir olup olmadığını tahmin eden, klasik makine öğrenmesi (Decision Tree & Random Forest) tabanlı bir proje.
-
-[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange.svg)](https://scikit-learn.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![HF Space](https://img.shields.io/badge/🤗%20Demo-Hugging%20Face%20Space-yellow)](https://huggingface.co/spaces/KubraParmak/water-potability-demo)
-[![HF Model](https://img.shields.io/badge/🤗%20Model-Hugging%20Face%20Hub-yellow)](https://huggingface.co/KubraParmak/water-potability-model)
+<h1 align="center">💧 Su İçilebilirlik Tahmini</h1>
+<p align="center"><b>Suyun fiziksel/kimyasal özelliklerine bakarak içilebilir olup olmadığını tahmin eden, klasik makine öğrenmesi (Decision Tree & Random Forest) tabanlı bir proje.</b></p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-3.10+-blue.svg" />
+    <img src="https://img.shields.io/badge/scikit--learn-ML-orange.svg" />
+    <img src="https://img.shields.io/badge/License-MIT-green.svg" />
+    <img src="https://img.shields.io/badge/🤗%20Demo-Hugging%20Face%20Space-yellow" />
+    <img src="https://img.shields.io/badge/🤗%20Model-Hugging%20Face%20Hub-yellow" />
+</p>
 
 🇹🇷 Türkçe | 🇬🇧 [English](README.md)
 
