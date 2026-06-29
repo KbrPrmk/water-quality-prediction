@@ -1,11 +1,12 @@
-# **💧 Water Potability Prediction**
-This project aims to predict whether a water sample is potable based on its physicochemical properties, using classical machine learning methods (Decision Tree and Random Forest).
-
-[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange.svg)](https://scikit-learn.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![HF Space](https://img.shields.io/badge/🤗%20Demo-Hugging%20Face%20Space-yellow)](https://huggingface.co/spaces/KubraParmak/water-potability-demo)
-[![HF Model](https://img.shields.io/badge/🤗%20Model-Hugging%20Face%20Hub-yellow)](https://huggingface.co/KubraParmak/water-potability-model)
+<h1 align="center">💧 Water Potability Prediction</h1>
+<p align="center"><b>This project aims to predict whether a water sample is potable based on its physicochemical properties, using classical machine learning methods (Decision Tree and Random Forest).</b></p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-3.10+-blue.svg" />
+    <img src="https://img.shields.io/badge/scikit--learn-ML-orange.svg" />
+    <img src="https://img.shields.io/badge/License-MIT-green.svg" />
+    <img src="https://img.shields.io/badge/🤗%20Demo-Hugging%20Face%20Space-yellow" />
+    <img src="https://img.shields.io/badge/🤗%20Model-Hugging%20Face%20Hub-yellow" />
+</p>
 
 🇹🇷[Türkçe](README.tr.md) | 🇬🇧 English
 
